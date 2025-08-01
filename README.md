@@ -26,5 +26,5 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
+   git [clone https://github.com/tu_usuario/tu_repositorio.git](https://github.com/ViviArtaviaDBA/Predicting-Survival-Titanic-DataScience-Tutoria)
+   cd Predicting-Survival-Titanic-DataScience-Tutoria
